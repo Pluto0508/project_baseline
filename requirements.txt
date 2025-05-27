@@ -1,0 +1,5 @@
+typing
+pandas
+numpy
+configparser
+torch==2.0.1
